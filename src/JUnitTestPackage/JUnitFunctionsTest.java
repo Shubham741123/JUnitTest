@@ -10,6 +10,7 @@ public class JUnitFunctionsTest {
 	public void test() {
 		JUnitTestPackage.JUnitFunctions p=new JUnitTestPackage.JUnitFunctions();
 		p.AddNumbers(15,10);
+		//HI
 	}
 
 }
